@@ -52,8 +52,7 @@ We may develop interesting analytics use cases to explore and Use Spark SQL quer
 
 
 
- Team member:
- KRPNSS(github)
+
 
 NOTE: Please note that, out.json file we were unable to upload.
 
