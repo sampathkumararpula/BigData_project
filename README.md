@@ -26,4 +26,4 @@ We were able to successfully run wordcount on extracted hastags and urls on hado
 
 Contributors:
 
-Rama Pavan Naga Sai Santhosh Katragadda - KRPNSS(github)
+Rama Pavan Naga Sai Santhosh Katragadda- KRPNSS(github)
