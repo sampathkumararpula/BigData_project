@@ -29,8 +29,7 @@ The  tweets out.json file is extracted using python. The program to extract the 
 
 
 We ran wordcount on the extracted "urls" and "hashtags" on hadoop using the  command 
-$ bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.8.1.jar wordcount /ska/input.txt /ska/hadoopoutput
-After I run this file. we got two files Success file and the output file, the same is uploaded in the repository as "part-r-00000"
+$ bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.8.1.jar wordcount /ska/input.txt /ska/hadoopoutput. we got two files Success file and the output file, the same is uploaded in the repository as "part-r-00000"
 
 
 **Execution in  Spark**
